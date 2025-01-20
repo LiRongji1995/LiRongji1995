@@ -6,9 +6,9 @@
 - 📫 How to reach me: LiRongji1995@Gmail.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
 
-![](https://github-readme-stats.vercel.app/api?username=lirongji1995&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=LiRongji1995&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/lirongji1995/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/LiRongji1995/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set
 

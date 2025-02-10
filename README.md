@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Golang.
 - 📫 How to reach me: LiRongji1995@Gmail.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiRongji1995)
 

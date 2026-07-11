@@ -44,11 +44,11 @@
 
 I am a backend developer who enjoys transforming ideas into practical, reliable software. My primary languages are **Java** and **Go**, and I am continuously exploring algorithms, software engineering and useful developer tools.
 
-- 🔭 Building something cool and useful
-- 🌱 Learning everything that genuinely interests me
-- 💬 Ask me about **Java**, **Go** and algorithmic problem solving
-- 📚 Recording my reading journey and long-term growth
-- 📫 Reach me at **LiRongji1995@gmail.com**
+* 🔭 Building something cool and useful
+* 🌱 Learning everything that genuinely interests me
+* 💬 Ask me about **Java**, **Go** and algorithmic problem solving
+* 📚 Recording my reading journey and long-term growth
+* 📫 Reach me at **[LiRongji1995@gmail.com](mailto:LiRongji1995@gmail.com)**
 
 </td>
 <td width="42%" valign="top">
@@ -164,7 +164,7 @@ var LiRongji = Developer{
 DESIGN // BUILD // ITERATE // REPEAT
 ```
 
-**Thanks for entering my little corner of the code universe.**  
+**Thanks for entering my little corner of the code universe.**
 *Connection established. See you in the next commit.*
 
 </div>

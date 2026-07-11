@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/eva-profile-dashboard.png" width="100%" alt="Li Rongji EVA-inspired anime cyberpunk developer dashboard" />
+  <img src="./eva-profile-dashboard.png" width="100%" alt="Li Rongji EVA-inspired anime cyberpunk developer dashboard" />
 </div>
 
 <br />

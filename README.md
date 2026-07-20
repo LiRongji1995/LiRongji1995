@@ -1,10 +1,18 @@
 <div align="center">
 
-# Li Rongji · 李荣基
+# Reader in All Time
 
-### Backend developer · Java · Go
+**A quiet archive of books, ideas, and the years they accompanied.**
 
-*Building useful things, learning steadily, and enjoying the quiet process.*
+一本一本读下去，也把时间一页一页留下来。
+
+<br>
+
+![Books](https://img.shields.io/badge/Books-26-6F4E37?style=flat-square)
+![2025](https://img.shields.io/badge/2025-18_books-8B6F47?style=flat-square)
+![2026](https://img.shields.io/badge/2026-8_read-A68A64?style=flat-square)
+![Plan](https://img.shields.io/badge/2026_Plan-8_books-8C6A5D?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Reading-5E7D63?style=flat-square)
 
 </div>
 
@@ -12,70 +20,247 @@
 
 ## About
 
-Hi, I’m Li Rongji.
+这里记录我读过的书，以及它们曾经陪伴我的年份。
 
-I enjoy backend engineering, clear code, and software that quietly makes everyday work a little easier.  
-My main languages are **Java** and **Go**. I prefer learning at a steady pace, keeping useful notes, and letting small improvements compound over time.
+内容横跨文学、历史、经济、心理学与软件工程。这个仓库不追求完整，也不急于给每本书下结论；它更像一份持续生长的私人阅读地图。
 
-I’m based in **Foshan, China**.
+<div align="center">
 
----
+[2026 已读](#2026) · [2026 阅读计划](#2026-阅读计划) · [2025](#2025) · [专题书单](#专题书单)
 
-## Now
-
-- Practising algorithms and data structures with Go
-- Deepening my understanding of backend development
-- Keeping a long-term reading record
-- Building one useful thing at a time
+</div>
 
 ---
 
-## Selected work
+## 2026
 
-### [Just-Code](https://github.com/LiRongji1995/Just-Code)
+> **已读 8 本** · Reading in progress · 持续更新中
 
-A growing collection of algorithm exercises, data structures, and Go practice.
+<!--
+排版规则：每行最多 4 本，并尽量平均分布。
+当前共 8 本，因此采用 4 + 4 的布局。
+-->
 
-> A quiet place to think clearly, solve problems, and improve through repetition.
+<table width="100%">
+ <tr>
+  <td align="center" width="25%">
+  <img src="https://www.books.com.tw/img/001/090/04/0010900449.jpg" height="210" alt="《失去的胜利》封面">
+  <br>
+  <sub><b>《失去的胜利》</b></sub>
+  </td>
+  <td align="center" width="25%">
+  <img src="https://www.books.com.tw/img/CN1/796/15/CN17961544.jpg" height="210" alt="《我甚至相信你拥有整个宇宙》封面">
+  <br>
+  <sub><b>《我甚至相信你拥有整个宇宙》</b></sub>
+  </td>
+  <td align="center" width="25%">
+  <img src="https://www.books.com.tw/img/CN1/011/37/CN10113715.jpg" height="210" alt="《道德情操论》封面">
+  <br>
+  <sub><b>《道德情操论》</b></sub>
+  </td>
+  <td align="center" width="25%">
+  <img src="https://pica.zhimg.com/80/v2-6f8174feeb1e9a8fee1716ebf6233dd2_720w.webp" height="210" alt="《人妻约会指南》封面">
+  <br>
+  <sub><b>《人妻约会指南》</b></sub>
+  </td>
+ </tr>
+</table>
 
-### [ReaderInAllTime](https://github.com/LiRongji1995/ReaderInAllTime)
+<table width="100%">
+ <tr>
+  <td align="center" width="25%">
+  <img src="https://www.books.com.tw/img/001/065/31/0010653153.jpg" height="210" alt="《被讨厌的勇气》封面">
+  <br>
+  <sub><b>《被讨厌的勇气》</b></sub>
+  </td>
+  <td align="center" width="25%">
+  <img src="https://pic2.zhimg.com/v2-b97fa8dba7c777f58f5dce9cb6abc155_1440w.jpg" height="210" alt="《猎豹》封面">
+  <br>
+  <sub><b>《猎豹》</b></sub>
+  </td>
+  <td align="center" width="25%">
+  <a href="https://www.qidian.com/book/1024424884/">
+  <img src="https://bookcover.yuewen.com/qdbimg/349573/1024424884/600" height="210" alt="《铁血残明》封面">
+  </a>
+  <br>
+  <sub><b>《铁血残明》</b></sub>
+  </td>
+  <td align="center" width="25%">
+  <a href="https://weread.qq.com/web/bookDetail/956322b05e42079564a8a77">
+  <img src="https://www.books.com.tw/img/001/067/07/0010670757.jpg" height="210" alt="《长日将尽》封面">
+  </a>
+  <br>
+  <sub><b>《长日将尽》</b></sub>
+  </td>
+ </tr>
+</table>
 
-A personal reading journal for recording books, ideas, and small reflections over time.
-
-> Reading slowly. Remembering thoughtfully.
+<p align="right"><a href="#-reader-in-all-time">↑ Back to top</a></p>
 
 ---
 
-## Tools I enjoy
+## 2026 阅读计划
 
-`Java` · `Go` · `Git` · `Linux` · `Markdown`
+> **计划阅读 8 本** · 文学、奇幻、悬疑与专业阅读交替进行。
 
-I care more about choosing the right tool and using it well than collecting a long list of technologies.
+这是一份可以随时调整的计划，不强调按顺序完成。读完后，将状态从 `[ ]` 改为 `[x]` 即可。
+
+| 状态 | 书目 | 作者 | 类型 | 选择理由 |
+|---|---|---|---|---|
+| [x] | [《长日将尽》](https://weread.qq.com/web/bookDetail/956322b05e42079564a8a77) | 石黑一雄 | 文学 | 克制地书写责任、尊严、选择与错过。 |
+| [ ] | [《斯通纳》](https://weread.qq.com/web/bookDetail/a0b329e05cb070a0b0f1092) | 约翰·威廉斯 | 文学 | 讲述一个普通人的一生，平静却很有力量。 |
+| [ ] | [《终结的感觉》](https://weread.qq.com/web/bookDetail/4b6323805cf6714b6584969) | 朱利安·巴恩斯 | 文学 / 心理 | 篇幅不长，围绕记忆、自我解释和往事展开。 |
+| [ ] | [*Designing Data-Intensive Applications, 2nd Edition*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/) | Martin Kleppmann、Chris Riccomini | 软件架构 / 分布式系统 | 作为 2026 年的专业慢读项目，系统理解现代数据系统的设计取舍。 |
+| [ ] | [《皮拉内西》](https://www.bloomsbury.com/uk/piranesi-9781526634108/) | 苏珊娜·克拉克 | 奇幻 / 谜团 | 世界观独特，兼具探索感、孤独感和逐步揭晓的谜团。 |
+| [ ] | [《哈利·奥古斯特的十五次人生》](https://www.hachettebookgroup.com/titles/claire-north/the-first-fifteen-lives-of-harry-august/9780316399630/) | 克莱尔·诺斯 | 科幻 / 时间循环 | 用不断重来的人生讨论选择、记忆和命运，同时保持较强的故事性。 |
+| [ ] | [《伊芙琳·哈德卡斯尔的七次死亡》](https://weread.qq.com/web/bookDetail/fd0327d0723f3b1afd006f1) | 斯图尔特·特顿 | 悬疑 / 时间循环 | 庄园谋杀与身份切换结合，结构复杂，解谜感较强。 |
+| [ ] | [《人间便利店》](https://weread.qq.com/web/bookDetail/51f327a0715d96a051fc7a4) | 村田沙耶香 | 当代文学 | 篇幅短、节奏轻快，从“不符合社会期待”的人物观察日常生活。 |
+
+### 建议阅读节奏
+
+1. **先读短篇幅作品：**《人间便利店》→《终结的感觉》
+2. **再读人物与人生：**《长日将尽》→《斯通纳》
+3. **穿插情节型作品：**《皮拉内西》→《伊芙琳·哈德卡斯尔的七次死亡》→《哈利·奥古斯特的十五次人生》
+4. **全年慢读：** *Designing Data-Intensive Applications, 2nd Edition*
+
+<p align="right"><a href="#-reader-in-all-time">↑ Back to top</a></p>
 
 ---
 
-## A few things I believe
+## 2025
 
-> Make it clear before making it clever.
+<details open>
+<summary><b>展开 2025 年阅读记录 · 18 books</b></summary>
 
-> Consistency matters more than intensity.
+<br>
 
-> Useful software should feel calm and dependable.
+<table>
+ <tr>
+  <td align="center" width="33%">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGr7pXvqynMKJjPko8C7mje5DDuy37ogErQ&amp;s" height="220" alt="《玻璃之锤》 封面">
+  <br>
+  <sub><b>《玻璃之锤》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgiwFTwT15ihQ2sI9pHspZb8Lcbr7G3swF6Q&amp;s" height="220" alt="《雅思词汇经典》 封面">
+  <br>
+  <sub><b>《雅思词汇经典》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://www.books.com.tw/img/001/092/78/0010927819.jpg" height="220" alt="《如首无作祟之物》 封面">
+  <br>
+  <sub><b>《如首无作祟之物》</b></sub>
+  </td>
+ </tr>
+ <tr>
+  <td align="center" width="33%">
+  <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345477434i/12673959.jpg" height="220" alt="《浪潮之巅》 封面">
+  <br>
+  <sub><b>《浪潮之巅》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://www.books.com.tw/img/001/052/73/0010527328.jpg" height="220" alt="《福尔摩斯探案集》 封面">
+  <br>
+  <sub><b>《福尔摩斯探案集》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://www.manongbook.com/d/file/other/b842ee0ffcff5399d8fd2c5f03d9746d0.jpg" height="220" alt="《100个Go语言典型错误》 封面">
+  <br>
+  <sub><b>《100个Go语言典型错误》</b></sub>
+  </td>
+ </tr>
+ <tr>
+  <td align="center" width="33%">
+  <img src="https://img2024.cnblogs.com/blog/121186/202502/121186-20250207104655030-663263026.jpg" height="220" alt="《软件设计的哲学》 封面">
+  <br>
+  <sub><b>《软件设计的哲学》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://www.books.com.tw/img/CN1/191/01/CN11910193.jpg" height="220" alt="《双月城的惨剧》 封面">
+  <br>
+  <sub><b>《双月城的惨剧》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://www.books.com.tw/img/001/054/64/0010546476.jpg" height="220" alt="《情书》 封面">
+  <br>
+  <sub><b>《情书》</b></sub>
+  </td>
+ </tr>
+ <tr>
+  <td align="center" width="33%">
+  <img src="https://cf-assets2.tenlong.com.tw/products/images/000/150/499/original/9787121365577.jpg" height="220" alt="《Go专家编程》 封面">
+  <br>
+  <sub><b>《Go专家编程》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://www.aliceandbooks.com/covers/Dubliners-James_Joyce-md.png" height="220" alt="《Dubliners》 封面">
+  <br>
+  <sub><b>《Dubliners》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://file.ituring.com.cn/LargeCover/20080d81a4fb8a268c40" height="220" alt="《JavaScript高级程序设计（第4版）》 封面">
+  <br>
+  <sub><b>《JavaScript高级程序设计（第4版）》</b></sub>
+  </td>
+ </tr>
+ <tr>
+  <td align="center" width="33%">
+  <img src="https://cdn.kobo.com/book-images/e5f37091-2524-444e-8bd1-5d3a3c8058df/353/569/90/False/hiDeSoxTXj-i8Vdetou-2Q.jpg" height="220" alt="《了凡四训》 封面">
+  <br>
+  <sub><b>《了凡四训》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://chinabook.co.kr/data/goods/1/2017/10/7866_tmp_db7ca48e05dc4cb3021a371128cadf557988view.jpg" height="220" alt="《万历十五年》 封面">
+  <br>
+  <sub><b>《万历十五年》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://img3.od-cdn.com/ImageType-100/8143-1/%7B2222346E-B4CE-45B1-A80A-C7826685859A%7DIMG100.JPG" height="220" alt="《理解人性》 封面">
+  <br>
+  <sub><b>《理解人性》</b></sub>
+  </td>
+ </tr>
+ <tr>
+  <td align="center" width="33%">
+  <img src="https://img.alicdn.com/imgextra/i2/3310271582/O1CN015xpLpv1NYbc2Zb0pF_!!4611686018427386974-2-item_pic.png" height="220" alt="《雪人》 封面">
+  <br>
+  <sub><b>《雪人》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://gw.alicdn.com/imgextra/i2/725677994/O1CN01huZqS728vJEhaPE6k_!!4611686018427385770-2-item_pic.png_.webp" height="220" alt="《以日为鉴》 封面">
+  <br>
+  <sub><b>《以日为鉴》</b></sub>
+  </td>
+  <td align="center" width="33%">
+  <img src="https://www.books.com.tw/img/CN1/784/17/CN17841751.jpg" height="220" alt="《失去的三十年：平成日本经济史》 封面">
+  <br>
+  <sub><b>《失去的三十年：平成日本经济史》</b></sub>
+  </td>
+ </tr>
+</table>
 
-> Growth is usually quiet.
+</details>
+
+<p align="right"><a href="#-reader-in-all-time">↑ Back to top</a></p>
 
 ---
 
-## Contact
+## 专题书单
 
-- GitHub: [@LiRongji1995](https://github.com/LiRongji1995)
-- Email: [LiRongji1995@gmail.com](mailto:LiRongji1995@gmail.com)
-- Repositories: [View all projects](https://github.com/LiRongji1995?tab=repositories)
+除了年度阅读记录，这里也会整理一些围绕特定主题的学习路径与书单。
+
+### 系统设计
+
+从面试入门、分布式系统基础，到微服务、可扩展性与可靠性工程：
+
+**[查看系统设计书籍推荐指南 →](./system_design_books.md)**
 
 ---
 
 <div align="center">
 
-<sub>Thanks for stopping by. I hope you leave with a little more calm than when you arrived.</sub>
+### Keep reading. Keep wondering.
+
+<sub>Started in 2025 · Updated along the way</sub>
 
 </div>

@@ -80,7 +80,7 @@
   </td>
   <td align="center" width="25%">
   <a href="https://www.qidian.com/book/1024424884/">
-  <img src="https://bookcover.yuewen.com/qdbimg/349573/1024424884/600" height="210" alt="《铁血残明》封面">
+  <img src="https://img-tailor.11222.cn/bcv/720p/1141077968647_sa.jpg" height="210" alt="《铁血残明》封面">
   </a>
   <br>
   <sub><b>《铁血残明》</b></sub>
